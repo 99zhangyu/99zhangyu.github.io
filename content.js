@@ -8,7 +8,7 @@ const portfolio = {
   status: "持续充电中",
   location: "中国 · 山东",
   email: "kaiyang@example.com",
-  github: "https://99zhangyu.github.io",
+  github: "https://github.com/99zhangyu",
   csdn: "",
   gitee: "https://gitee.com/Zhangyuge99/my_-code",
   resumeUrl: "",
