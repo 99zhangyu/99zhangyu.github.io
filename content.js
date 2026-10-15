@@ -1,4 +1,4 @@
-// 只需修改这里，网站会自动更新。文字请保留引号和逗号。
+﻿// 只需修改这里，网站会自动更新。文字请保留引号和逗号。
 const portfolio = {
   name: "张煜楷",
   shortName: "ZYK",
@@ -7,11 +7,11 @@ const portfolio = {
   summary: "用代码把开放数据变成可理解的信息。我专注网页采集、数据清洗与自动化流程。",
   status: "持续充电中",
   location: "中国 · 山东",
-  email: "m15053868993@163.com",
-  github: "https://github.com/99zhangyu",
+  email: "kaiyang@example.com",
+  github: "",
   csdn: "",
   gitee: "https://gitee.com/Zhangyuge99/my_-code",
-  resumeUrl: "https://99zhangyu.github.io",
+  resumeUrl: "",
   studyHours: "180+",
   skillCount: "06",
   about: "我正在系统学习 Python 数据采集与自动化。每个项目都从一个具体问题出发，完成从抓取、清洗到可视化展示的完整流程。",
